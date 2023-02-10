@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#titulo{
+	
+	color: red;
+	background-color: rgb(208, 211, 21);
+	font-family: fantasy;
+}
+
